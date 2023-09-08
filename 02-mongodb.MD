@@ -10,7 +10,7 @@ yum update -y
 
 Setup the MongoDB repo file
 ```
-vim /etc/yum.repos.d/mongodb-org-4.2
+vim /etc/yum.repos.d/mongodb-org-4.2.repo
 ```
 ```
 [mongodb-org-4.2]
